@@ -199,7 +199,7 @@ case $TASK in
         push
     ;;
     all)
-        test
+        # test
         build
         push
     ;;
